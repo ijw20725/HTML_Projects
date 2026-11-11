@@ -1,0 +1,34 @@
+.main {
+	background: lightgray;
+	display: block;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 25px;
+}
+
+.second {
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.third {
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fourth {
+	
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fifth {
+	margin-top: 50px;
+}

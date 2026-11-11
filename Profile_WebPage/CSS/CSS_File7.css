@@ -1,0 +1,27 @@
+div {
+	margin-top: 25px;
+}
+
+.second {
+	display: block;
+	width: 400px;
+	margin-left : auto;
+	margin-right: auto;	
+}
+
+.third {
+	display: block;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fourth {
+
+	display: block;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+

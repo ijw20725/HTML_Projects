@@ -1,0 +1,42 @@
+.main {
+	background:papayawhip;
+	display: block;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 25px;
+}
+
+.second {
+
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px solid wheat;
+	border-radius: 15px;
+}
+
+.third {
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px solid wheat;
+        border-radius: 15px;
+	
+}
+
+.fourth {
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px solid wheat;
+        border-radius: 15px;
+}
+
+.fifth {
+	margin-top: 25px;
+	
+}
