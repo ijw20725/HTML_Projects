@@ -1,0 +1,51 @@
+.main {
+	margin-top: 50px;
+}
+
+.second {
+
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px solid wheat;
+	border-radius: 15px;
+}
+
+.third {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px solid wheat;
+        border-radius: 15px;
+	color: black;
+	background: papayawhip;	
+}
+
+.fourth {
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px solid wheat;
+        border-radius: 15px;
+}
+
+
+.fifth {
+        display: block;
+        width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        background: papayawhip;
+        color: black;
+        border: 100px solid wheat;
+        border-radius: 20px;
+	padding: 20px;
+}
+
+.sixth {
+
+	display: flex;
+	justify-content: center;	
+}
