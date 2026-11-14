@@ -1,5 +1,6 @@
 .main {
 	margin-top: 50px;
+
 }
 
 .second {
@@ -8,18 +9,17 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	border: 4px solid wheat;
+	border: 4px solid brown;
 	border-radius: 15px;
 }
 
 .third {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	border: 4px solid wheat;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border: 4px solid brown;
         border-radius: 15px;
 	color: black;
-	background: papayawhip;	
+	background: orange;	
 }
 
 .fourth {
@@ -27,8 +27,9 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	border: 4px solid wheat;
+	border: 4px solid brown;
         border-radius: 15px;
+	margin-bottom: 10px;
 }
 
 
@@ -37,9 +38,9 @@
         width: 300px;
         margin-left: auto;
         margin-right: auto;
-        background: papayawhip;
+        background: orange;
         color: black;
-        border: 100px solid wheat;
+        border: 100px solid brown;
         border-radius: 20px;
 	padding: 20px;
 }
@@ -47,5 +48,28 @@
 .sixth {
 
 	display: flex;
-	justify-content: center;	
+	justify-content: center;
+	gap: 30px;	
+}
+
+.seventh {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.eigth {
+	display: flex;
+	justify-content: center;
+	border: 1px solid brown;
+	border-radius: 20px;
+	padding: 0px;
+	background: orange;
+}
+
+
+
+
+body {
+background: wheat;
 }
