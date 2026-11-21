@@ -33,6 +33,10 @@ body {
   /* Shorthand version of the 4 lines above: */
   /* animation: float 3s ease-in-out infinite; */
 
+.purple {
+	
+	border: 1px solid #10002b;
+}
 
 .card {
 	
@@ -48,7 +52,4 @@ body {
 
 }
 
-.purple {
-	
-	border: 1px solid purple;
-}
+
