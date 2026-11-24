@@ -1,0 +1,78 @@
+.main {
+	color: brown;
+	display:block;
+	width:400px;
+	margin: 50px auto;
+	
+}
+
+.second {
+
+	width: 400px;
+	display: block;
+	margin: 0px auto;
+	border: 4px solid brown;
+	border-radius: 15px;
+}
+
+.third {
+	margin: 15px 0px;
+	background: orange;
+	border: 4px solid brown;
+        border-radius: 15px;
+	color: black;
+		
+}
+
+.fourth {
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px solid brown;
+        border-radius: 15px;
+	margin-bottom: 10px;
+}
+
+
+.fifth {
+        display: block;
+        width: 300px;
+        margin: 0px auto;
+        background: orange;
+        color: black;
+        border: 100px solid brown;
+        border-radius: 20px;
+	padding: 20px;
+}
+
+.sixth {
+
+	display: flex;
+	justify-content: center;
+	gap: 30px;
+		
+}
+
+.seventh {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.eigth {
+	display: flex;
+	justify-content: center;
+	border: 1px solid brown;
+	border-radius: 20px;
+	padding: 0px;
+	background: orange;
+}
+
+
+
+
+body {
+background: wheat;
+}
+
