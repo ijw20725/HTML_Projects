@@ -1,0 +1,30 @@
+body {
+	color: white;
+	text-align: center;
+	background-image: url("../Images/space.jpg");
+	background-size: cover;
+	font-family: font;
+}
+
+.style {
+	
+	padding: 5px 10px;
+	background: white;
+	border: none;
+  	font-family: inherit;
+}
+
+@font-face {
+	src: url("..Fonts/Fonts.otf");
+	font-family: font;
+}
+
+.cta {
+	
+	border-bottom: 4px solid white;
+
+}
+
+#logo {
+	width: 150px;
+}

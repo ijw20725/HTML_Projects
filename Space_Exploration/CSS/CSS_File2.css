@@ -1,0 +1,12 @@
+body {
+	color: white;
+	text-align: center;
+	background-image: url("../Images/space.jpg");
+	background-size: cover;
+}
+
+.style {
+	
+	padding: 5px 10px;
+	background: white;
+}
